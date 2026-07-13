@@ -33,7 +33,7 @@ This Power BI dashboard analyzes sales performance using the Global Superstore S
 - Sales performance by region
 - Profit analysis by state
 - Customer purchasing trends
-- Product category performance
+- Product category performans
 - Annual sales trends
 
 ## Dashboard Preview
