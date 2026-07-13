@@ -45,6 +45,5 @@ This Power BI dashboard analyzes sales performance using the Global Superstore S
 Global Superstore Sales Dataset
 
 ## Author
-Sewmini Kaweesha Jayasinghe
 
 **Sewmini Kaweesha**
